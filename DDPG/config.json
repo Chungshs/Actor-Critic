@@ -1,0 +1,17 @@
+{
+    "agent": {
+        "BATCH_SIZE": 256,
+        "DISCOUNT_FACTOR": 0.99,
+        "SMOOTH_UPDATE_RATE": 0.005,
+        "NOISE_STD": 0.1,
+        "NOISE_BOUND": 0.5,
+        "MAX_EPISODES": 100000,
+        "MAX_STEPS": 3000000.0,
+        "MEMORY_SIZE": 1000000.0,
+        "PI_LEARN_RATE": 0.0003,
+        "Q_LEARN_RATE": 0.0003
+    },
+    "env": {
+        "name": "Hopper-v2"
+    }
+}
