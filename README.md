@@ -12,8 +12,7 @@ https://arxiv.org/abs/1509.06461
 Schaul, Tom, et al. "Prioritized experience replay." arXiv preprint arXiv:1511.05952 (2015).
 https://arxiv.org/abs/1511.05952
 
-# Actor-Critic
-
+# Actor-Critic Series
 1. DDPG
 Lillicrap, Timothy P., et al. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015).
 https://arxiv.org/abs/1509.02971
