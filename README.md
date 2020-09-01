@@ -13,8 +13,6 @@ Schaul, Tom, et al. "Prioritized experience replay." arXiv preprint arXiv:1511.0
 https://arxiv.org/abs/1511.05952
 
 # Actor-Critic
-1. MA-TD3 ( for own exprience )
-No reference paper
 1. DDPG
 Lillicrap, Timothy P., et al. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015).
 https://arxiv.org/abs/1509.02971
@@ -30,3 +28,6 @@ https://arxiv.org/abs/1812.05905
 4.TD3
 Fujimoto, Scott, Herke Van Hoof, and David Meger. "Addressing function approximation error in actor-critic methods." arXiv preprint arXiv:1802.09477 (2018).
 https://arxiv.org/pdf/1802.09477.pdf
+
+5.MA-TD3 ( for own exprience )
+No reference paper
