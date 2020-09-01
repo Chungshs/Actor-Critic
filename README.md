@@ -1,24 +1,24 @@
 # DQN_Series
 
-1. DQN 
+1.DQN 
 
 Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013).
 
 https://arxiv.org/abs/1312.5602
 
-2. Double DQN
+2.Double DQN
 
 Van Hasselt, Hado, Arthur Guez, and David Silver. "Deep reinforcement learning with double q-learning." arXiv preprint arXiv:1509.06461 (2015).
 
 https://arxiv.org/abs/1509.06461
 
-3. Duelling PER
+3.Duelling PER
 
 Wang, Ziyu, et al. "Dueling network architectures for deep reinforcement learning." International conference on machine learning. 2016.
 
 https://arxiv.org/abs/1509.06461
 
-4. PER
+4.PER
 
 Schaul, Tom, et al. "Prioritized experience replay." arXiv preprint arXiv:1511.05952 (2015).
 
@@ -26,7 +26,7 @@ https://arxiv.org/abs/1511.05952
 
 # Actor-Critic Series
 
-1. DDPG
+1.DDPG
 
 Lillicrap, Timothy P., et al. "Continuous control with deep reinforcement learning." arXiv preprint arXiv:1509.02971 (2015).
 
